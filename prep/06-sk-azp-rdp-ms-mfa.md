@@ -45,15 +45,9 @@
 
       <img src="./icon/azurelogin2.png" alt="azurelogin2" width="300pix"/> <img src="./icon/azureloginpass2.png" alt="azureloginpass2" width="300pix" />  
 
-      b.サインイン後に「**Azure へようこそ!**」の画面が表示されましたら、正常にサインインが完了しています。
+      **「サインイン要求を承認」画面が表示され Microsoft Authenticator アプリ の使用を求められた場合は、ブラウザーを閉じる等の手段で本手順を終了し、次の手順に進んでください**。
 
-      <img src="./icon/azureportal.png" alt="azureportal" width="500pix" />　
-
-      
-
-      c.最後にサインアウトを行います。画面右上にあるユーザーアイコンをクリックし、「**サインアウト**」をしてください。
-
-      <img src="./icon/azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
+      サインインでき「Azure へようこそ!」の画面が表示された場合は、画面右上にあるユーザーアイコンをクリックし、「サインアウト」をしてください。<img src="./icon/azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
 
       ------
 
@@ -86,13 +80,13 @@
       > ※ユーザー名とパスワードの入力、サインインする必要はありません。
    >
       > ※上記画面が表示されたことにより、RDP接続が出来ていることになります。
-      
+
       
 
       **【RDP接続が上手くいかない場合】**
-
+   
       RDP接続時にエラーが表示される場合があります。
-
+   
       <img src="./icon/rdperror.png" alt="rdperror" width="500pix">　
 
       
@@ -104,16 +98,16 @@
       | <img src="./icon/Network.png" width="80pix">　<br>**ネットワークの変更** | 会社のネットワークからアクセスした場合、RDP接続を禁止する設定がファイヤーウォール等に<br />行われている可能性があります。別のネットワークから接続可能な場合、そちらからお試ししてご受講ください。 |
       | <img src="./icon/securepc.png" alt="securepc" width="80pix">　 <br>**使用するPC変更** | 会社貸与のPCでは、RDP接続が出来ない設定が行われている場合があります。<br />ご自身でお持ちのPCなど、他のPCからアクセスできるかお試しください。 |
       | <img src="./icon/VPN.png" alt="VPN" width="80pix">　 <br>**VPNの停止** | 業務で使用しているPCのVPNソフトが起動しているため、接続できない可能性があります。<br />VPNソフトを停止してお試しください。 |
-      
+
       上記の対処でも接続できない、またはご用意できない場合もございます。
-
+   
       その場合、AzureにはWebブラウザから仮想マシンにアクセスする機能でご提供することも可能です。
-
+   
       弊社側で事前に準備する必要がございます。お手数ですが、**「受講案内メール」へのご返信**または**弊社の担当営業**へご連絡ください。
-
+   
       なお、お客様にご準備いただくものはございません。受講当日はそのままご参加ください。
 
-      ------
+   ------
 
       
 
@@ -149,11 +143,11 @@
       | 新しいメールアドレスを取得<br />※推奨 | Microsoftアカウントとメールアドレスを取得することが可能です。<br />ドメインは「outlook.com」「outlook.jp」「hotmail.com」から選択できます。<br />Microsoftアカウントとして個別に利用したい場合は、こちらを選択してください。 |
       
       <img src="./icon/MicrosoftAccount3.png" alt="MicrosoftAccount3" width="350pix" />　
-
+   
       
-
+   
       e.パスワードを入力します。
-
+   
       > ※パスワードを忘れた場合、ご自身で再設定する必要がございます。
 
       <img src="./icon/MicrosoftAccount4.png" alt="MicrosoftAccount4" width="350pix" />　
@@ -205,7 +199,7 @@
    
 
    a.お手持ちのスマートフォンからQRリーダーを起動し、アプリインストールの画面を表示します。
-
+   
    <img src="./icon/mfa1.png" alt="mfa1" width="400pix" /> 
 
    

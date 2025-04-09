@@ -18,7 +18,7 @@
 
    研修ではAzureにWebブラウザからアクセスし操作を行います。受講するPC環境からアクセスできるか確認をお願いします。
 
-   a.以下のアカウント情報とパスワードを使用して、Azure Portalにサインイン(ログイン)できるか事前確認をお願いします。
+   以下のアカウント情報とパスワードを使用して、Azure Portalにサインイン(ログイン)できるか事前確認をお願いします。
 
    | 項目                              | 詳細                                        |
    | --------------------------------- | ------------------------------------------- |
@@ -28,15 +28,9 @@
 
    <img src="./icon/azurelogin2.png" alt="azurelogin2" width="300pix"/> <img src="./icon//azureloginpass2.png" alt="azureloginpass2" width="300pix" />  
 
-   
+   **「サインイン要求を承認」画面が表示され Microsoft Authenticator アプリ の使用を求められた場合は、ブラウザーを閉じる等の手段で本手順を終了し、次の手順に進んでください**。
 
-   b.サインイン後に「**Azure へようこそ!**」の画面が表示されましたら、正常にサインインが完了しています。
-
-   <img src="./icon/azureportal.png" alt="azureportal" width="500pix" />　
-
-   
-
-   c.最後にサインアウトを行います。画面右上にあるユーザーアイコンをクリックし、「**サインアウト**」をしてください。
+   サインインでき「Azure へようこそ!」の画面が表示された場合は、画面右上にあるユーザーアイコンをクリックし、「サインアウト」をしてください。
 
    <img src="./icon//azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
 
