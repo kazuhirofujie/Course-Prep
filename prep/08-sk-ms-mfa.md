@@ -31,7 +31,7 @@
 
    b.   少し待ち、以下のようなWindowsログイン画面が表示されましたら、接続確認は成功です。
 
-   ![](C:/Users/z2115023/Documents/GitHub/Course-Prep/prep/icon/Skillable-Windows.png)
+   ![](./icon/Skillable-Windows.png)
 
    c.   時間がたてば演習環境は自動終了します。すぐ終了する場合は右上の [× End] をクリックしてください。「Are you sure you want to end this lab?」と聞かれたら「Yes, end my lab」 をクリックすると終了します。
 

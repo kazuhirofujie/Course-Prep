@@ -26,11 +26,11 @@
    | ユーザー名                        | `azure-portal-test@ctctedu.onmicrosoft.com` |
    | パスワード                        | Pa55w.rd1234                                |
 
-   <img src="C:/Users/z2115023/Documents/GitHub/Course-Prep/prep/icon/azurelogin2.png" alt="azurelogin2" width="300pix"/> <img src="C:/Users/z2115023/Documents/GitHub/Course-Prep/prep/icon/azureloginpass2.png" alt="azureloginpass2" width="300pix" />  
+   <img src="./icon/azurelogin2.png" alt="azurelogin2" width="300pix"/> <img src="./icon/azureloginpass2.png" alt="azureloginpass2" width="300pix" />  
 
    **「サインイン要求を承認」画面が表示され Microsoft Authenticator アプリ の使用を求められた場合は、ブラウザーを閉じる等の手段で本手順を終了し、次の手順に進んでください**。
 
-   サインインでき「Azure へようこそ!」の画面が表示された場合は、画面右上にあるユーザーアイコンをクリックし、「サインアウト」をしてください。<img src="C:/Users/z2115023/Documents/GitHub/Course-Prep/prep/icon/azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
+   サインインでき「Azure へようこそ!」の画面が表示された場合は、画面右上にあるユーザーアイコンをクリックし、「サインアウト」をしてください。<img src="./icon/azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
 
    ------
 
