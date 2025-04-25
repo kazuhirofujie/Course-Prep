@@ -23,7 +23,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | [AZ-900：Microsoft Azure 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/03-azp-rdp-ms-mfa.md) |
 | [AZ-104：Microsoft Azure 管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/05-sk-azp-rdp-ms-mfa.md) |
 | [AZ-204：Microsoft Azure のソリューション開発](https://github.com/ctct-edu/Course-Prep/blob/main/prep/13-sk-ms-mfa.md) |
-| [AZ-305：Microsoft Azure インフラストラクチャの設計](https://github.com/ctct-edu/Course-Prep/blob/main/prep/12-azp-ms.md) |
+| [AZ-305：Microsoft Azure インフラストラクチャの設計](https://github.com/ctct-edu/Course-Prep/blob/main/prep/08-azp-ms.md) |
 | [AZ-040：PowerShellを使用した管理の自動化](https://github.com/ctct-edu/Course-Prep/blob/main/prep/05-sk-azp-rdp-ms-mfa.md) |
 | [DP-900：Microsoft Azure のデータの基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/04-sk-azp-ms-mfa.md) |
 | [AI-900：Microsoft Azure AI の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/04-sk-azp-ms-mfa.md) |
