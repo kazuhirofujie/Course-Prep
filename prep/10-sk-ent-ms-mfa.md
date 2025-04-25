@@ -10,6 +10,9 @@
 
 | 項目                                                         |
 | ------------------------------------------------------------ |
+| [MS-900 Microsoft 365 基礎](https://www.school.ctc-g.co.jp/course/P800.html) |
+| [MS-102 Microsoft 365 管理者](https://www.school.ctc-g.co.jp/course/P803.html) |
+| [MS-700 Microsoft Teamsの管理](https://www.school.ctc-g.co.jp/course/P804.html) |
 | [SC-900 Microsoft セキュリティ、コンプライアンス、ID の基礎](https://www.school.ctc-g.co.jp/course/P791.html) |
 | [SC-300 Microsoft ID およびアクセス管理者](https://www.school.ctc-g.co.jp/course/P790.html) |
 

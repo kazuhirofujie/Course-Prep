@@ -38,9 +38,9 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 
 | コース名                                                     |
 | ------------------------------------------------------------ |
-| [MS-900：Microsoft 365 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-madmin-mfa.md) |
-| [MS-102：Microsoft 365 管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-madmin-mfa.md) |
-| [MS-700：Microsoft Teamsの管理](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-madmin-mfa.md) |
+| [MS-900：Microsoft 365 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/10-sk-ent-ms-mfa.md) |
+| [MS-102：Microsoft 365 管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/10-sk-ent-ms-mfa.md) |
+| [MS-700：Microsoft Teamsの管理](https://github.com/ctct-edu/Course-Prep/blob/main/prep/10-sk-ent-ms-mfa.md) |
 | [MS-4004：Copilot for Microsoft 365 のユース ケースを使って従業員を強化する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/15-m365-sha.md) |
 | [MS-4005：Microsoft Copilot for Microsoft 365 に対して効果的なプロンプトを作成する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/15-m365-sha.md) |
 
