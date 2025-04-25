@@ -30,7 +30,9 @@
 
    **「サインイン要求を承認」画面が表示され Microsoft Authenticator アプリ の使用を求められた場合は、ブラウザーを閉じる等の手段で本手順を終了し、次の手順に進んでください**。
 
-   サインインでき「Azure へようこそ!」の画面が表示された場合は、画面右上にあるユーザーアイコンをクリックし、「サインアウト」をしてください。<img src="./icon/azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
+   サインインでき「Azure へようこそ!」の画面が表示された場合は、画面右上にあるユーザーアイコンをクリックし、「サインアウト」をしてください。
+
+   <img src="./icon/azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
 
    ------
 
