@@ -56,8 +56,8 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | [PL-7001：Power Apps を使ったキャンバス アプリの作成と管理](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |
 | [PL-7002：Power Automate を使用して自動化されたプロセスを作成および管理する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |
 | [PL-7003：Power Apps と Dataverse を使用してモデル駆動型アプリを作成および管理する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |
-| [Power Appsによる業務アプリ開発入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/14-sk-rdp.md) |
-| [Power Automateによる業務自動化入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/14-sk-rdp.md) |
+| [Power Appsによる業務アプリ開発入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/12-sk-rdp.md) |
+| [Power Automateによる業務自動化入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/12-sk-rdp.md) |
 | [Power BI入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/01-rdp.md) |
 
 
