@@ -30,16 +30,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | [DP-900：Microsoft Azure のデータの基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/04-sk-azp-ms-mfa.md) |
 | [AI-900：Microsoft Azure AI の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/04-sk-azp-ms-mfa.md) |
 | [AI-102：Microsoft Azure AI ソリューションの設計と実装](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
-
-
-
-**[Microsoft Security コース]**
-
-| コース名                                                     |
-| ------------------------------------------------------------ |
 | [Microsoft Entra ID（旧称 Azure Active Directory）入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/09-sk-ent-mfa.md) |
-| [SC-900：Microsoft セキュリティ、コンプライアンス、ID の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
-| [SC-300：Microsoft ID およびアクセス管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
 
 
 
@@ -50,6 +41,8 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | [MS-900：Microsoft 365 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
 | [MS-102：Microsoft 365 管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
 | [MS-700：Microsoft Teamsの管理](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
+| [SC-900：Microsoft セキュリティ、コンプライアンス、ID の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
+| [SC-300：Microsoft ID およびアクセス管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-sk-mfa.md) |
 | [MS-4004：Copilot for Microsoft 365 のユース ケースを使って従業員を強化する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/15-m365-sha.md) |
 | [MS-4005：Microsoft Copilot for Microsoft 365 に対して効果的なプロンプトを作成する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/15-m365-sha.md) |
 
