@@ -10,9 +10,13 @@
 
 | 項目                                                         |
 | ------------------------------------------------------------ |
+| [AI-102 Microsoft Azure AI ソリューションの設計と実装](https://school.ctc-g.co.jp/course/P775.html) |
+| [SC-900 Microsoft セキュリティ、コンプライアンス、ID の基礎](https://www.school.ctc-g.co.jp/course/P791.html) |
+| [SC-300 Microsoft ID およびアクセス管理者](https://www.school.ctc-g.co.jp/course/P790.html) |
 | [MS-900 Microsoft 365 基礎](https://www.school.ctc-g.co.jp/course/P800.html) |
 | [MS-102 Microsoft 365 管理者](https://www.school.ctc-g.co.jp/course/P803.html) |
 | [MS-700 Microsoft Teamsの管理](https://www.school.ctc-g.co.jp/course/P804.html) |
+| [PL-300 Microsoft Power BI データアナリスト](https://www.school.ctc-g.co.jp/course/P930.html) |
 
 
 
@@ -20,23 +24,23 @@
 
 1. **アクセス確認（※重要※)**
 
-   本コースではインターネットで提供されるサービスを使用します。各サイトへアクセスできるネットワーク環境にてご受講ください。
-   ご利用されるインターネットアクセスに制限がある場合、ラボ（演習）が実施できない場合がございます。
+   本コースではインターネットで提供されるサービスを使用します。各サイトへアクセスできるネットワーク環境にてご受講ください。ご利用されるインターネットアクセスに制限がある場合、ラボ（演習）が実施できない場合がございます。
 
-   | 項目                       | 詳細                                     | 備考                                                         |
-   | -------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
-   | Skillable                  | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" width="400pix" /> |
-   | Microsoft 365 管理センター | https://admin.microsoft.com              | 「**サインイン**」または「**アカウントを選択する**」<br />画面が表示できればOKです。<br /><img src="./icon/M365Admin_SignIn.png" alt="M365Admin_SignIn" width="400pix" /> |
+   
 
-   > ※サインインする必要はありません。それぞれ入力画面が表示できればアクセス可能となります。
-   >
-   > ※サインインするためのアカウントは、研修内で作成または配布します。
-   >
-   > ※上記画面が表示されない場合は、 InPrivate ブラウザー ウィンドウなどでお試しください。
-   >
-   > 　- Microsoft Edgeでは「InPrivate」ウィンドウ
-   > 　-  Google Chromeでは「シークレット」ウィンドウ
-   > 　-  Mozilla Fire Foxでは「プライベート」ウィンドウ
+   本研修ではSkillable社の演習環境を使用します。以下手順をご参照の上、受講PC環境から演習環境にアクセスできることを事前にご確認ください。
+
+   a.   下記のURLに、ブラウザーからアクセスしてください。
+
+   https://labondemand.com/Launch/BF8A443C
+
+   b.   少し待ち、以下のようなWindowsログイン画面が表示されましたら、接続確認は成功です。
+
+   ![](C:/Users/z2115023/Documents/GitHub/Course-Prep/prep/icon/Skillable-Windows.png)
+
+   c.   時間がたてば演習環境は自動終了します。すぐ終了する場合は右上の [× End] をクリックしてください。「Are you sure you want to end this lab?」と聞かれたら「Yes, end my lab」 をクリックすると終了します。
+
+   ![](C:/Users/z2115023/Documents/GitHub/Course-Prep/prep/icon/Skillable-Windows2.png)
 
    
 
