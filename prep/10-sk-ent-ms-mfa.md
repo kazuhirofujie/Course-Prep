@@ -10,8 +10,8 @@
 
 | 項目                                                         |
 | ------------------------------------------------------------ |
-| [PL-300 Microsoft Power BI データアナリスト](https://www.school.ctc-g.co.jp/course/P930.html) |
-| [AI-102 Microsoft Azure AI ソリューションの設計と実装](https://school.ctc-g.co.jp/course/P775.html) |
+| [SC-900 Microsoft セキュリティ、コンプライアンス、ID の基礎](https://www.school.ctc-g.co.jp/course/P791.html) |
+| [SC-300 Microsoft ID およびアクセス管理者](https://www.school.ctc-g.co.jp/course/P790.html) |
 
 
 
@@ -22,20 +22,27 @@
    本コースではインターネットで提供されるサービスを使用します。各サイトへアクセスできるネットワーク環境にてご受講ください。
    ご利用されるインターネットアクセスに制限がある場合、ラボ（演習）が実施できない場合がございます。
 
-   | 項目      | 詳細                                     | 備考                                                         |
-   | --------- | ---------------------------------------- | ------------------------------------------------------------ |
-   | Skillable | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" width="400pix" /> |
-   
+   | 項目                         | 詳細                                     | 備考                                                         |
+   | ---------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+   | Skillable                    | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" width="400pix" /> |
+   | Microsoft Entra 管理センター | https://entra.microsoft.com/             | 「**サインイン**」または「**アカウントを選択する**」<br />画面が表示できればOKです。<br /><img src="./icon/M365Admin_SignIn.png" alt="M365Admin_SignIn" width="400pix" /> |
+
    > ※サインインする必要はありません。それぞれ入力画面が表示できればアクセス可能となります。
    >
    > ※サインインするためのアカウントは、研修内で作成または配布します。
+   >
+   > ※上記画面が表示されない場合は、 InPrivate ブラウザー ウィンドウなどでお試しください。
+   >
+   >  - Microsoft Edgeでは「InPrivate」ウィンドウ
+   >  -  Google Chromeでは「シークレット」ウィンドウ
+   >  -  Mozilla Fire Foxでは「プライベート」ウィンドウ
+
    
-   
-   
+
    ------
+
    
-   
-   
+
 2. **Microsoftアカウントの作成(※重要※)**
 
    Microsoft認定コースを受講する場合、「**Microsoftアカウント**」が必須となります。
@@ -97,7 +104,7 @@
 
    h.最後に画面右上にあるアイコンをクリックし、「**サインアウト**」を行います。
 
-   <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="450pix" />　
+   <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="450pix" /> 
 
    ------
 
