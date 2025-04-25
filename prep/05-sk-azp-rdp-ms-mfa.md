@@ -11,6 +11,7 @@
 | 項目                                                         |
 | ------------------------------------------------------------ |
 | [AZ-104 Microsoft Azure 管理者](https://www.school.ctc-g.co.jp/course/P750.html) |
+| [AZ-040 PowerShellを使用した管理の自動化](https://www.school.ctc-g.co.jp/course/P723.html) |
 
 
 
