@@ -70,7 +70,7 @@
 
    RDP接続時にエラーが表示される場合があります。
 
-   <img src="./icon/rdperror.png" alt="rdperror" width="500pix">　
+   <img src="./icon/rdperror0.png" alt="rdperror" width="500pix">　
 
    
 
