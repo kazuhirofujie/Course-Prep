@@ -44,13 +44,13 @@
 
    a.Windowsのスタートメニューから「**リモート**」と検索し、「**リモートデスクトップ接続**」を選択します。
 
-   <img src="./icon/rdp1.png" alt="rdp1" width="400pix"> 
+   <img src="./icon/rdp01.png" alt="rdp1" width="400pix"> 
 
    
 
     b.リモートデスクトップ接続画面に「**4.215.201.10**」と入力し、接続をクリックします。
 
-   <img src="./icon/rdp2.png" alt="rdp2" width="400pix">　
+   <img src="./icon/rdp02.png" alt="rdp2" width="400pix">　
 
    
 
@@ -58,7 +58,7 @@
 
    　そのまま、画面を閉じてください。
 
-   <img src="./icon/rdp3.png" alt="rdp3" width="400pix">　
+   <img src="./icon/rdp03.png" alt="rdp3" width="400pix">　
 
    > ※ユーザー名とパスワードの入力、サインインする必要はありません。
    >
@@ -70,7 +70,7 @@
 
    RDP接続時にエラーが表示される場合があります。
 
-   <img src="./icon/rdperror.png" alt="rdperror" width="500pix">　
+   <img src="./icon/rdperror0.png" alt="rdperror" width="500pix">　
 
    
 
