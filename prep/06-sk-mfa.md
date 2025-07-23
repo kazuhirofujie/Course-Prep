@@ -10,7 +10,6 @@
 
 | 項目                                                         |
 | ------------------------------------------------------------ |
-| [AI-102 Microsoft Azure AI ソリューションの設計と実装](https://school.ctc-g.co.jp/course/P775.html) |
 | [SC-900 Microsoft セキュリティ、コンプライアンス、ID の基礎](https://www.school.ctc-g.co.jp/course/P791.html) |
 | [SC-300 Microsoft ID およびアクセス管理者](https://www.school.ctc-g.co.jp/course/P790.html) |
 | [MS-900 Microsoft 365 基礎](https://www.school.ctc-g.co.jp/course/P800.html) |
