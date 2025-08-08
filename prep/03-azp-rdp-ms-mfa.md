@@ -10,6 +10,7 @@
 | ------------------------------------------------------------ |
 | [AZ-900 Microsoft Azure 基礎](https://www.school.ctc-g.co.jp/course/P728.html) |
 | [AI-102 Microsoft Azure AI ソリューションの設計と実装](https://school.ctc-g.co.jp/course/P775.html) |
+| [AI-900：Microsoft Azure AI の基礎](https://school.ctc-g.co.jp/course/P774.html) |
 
 
 
