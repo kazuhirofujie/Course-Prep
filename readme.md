@@ -42,7 +42,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | [SC-900：Microsoft セキュリティ、コンプライアンス、ID の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
 | [SC-300：Microsoft ID およびアクセス管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
 | [MS-4004：Copilot for Microsoft 365 のユース ケースを使って従業員を強化する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-m365-sha.md) |
-| [MS-4005：Microsoft Copilot for Microsoft 365 に対して効果的なプロンプトを作成する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-m365-sha.md) |
+| [MS-4018：Microsoft 365 Copilotでドラフト、分析、プレゼンテーションを行う](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-m365-sha.md) |
 
 
 
