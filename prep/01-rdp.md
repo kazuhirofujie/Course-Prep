@@ -11,8 +11,8 @@
 | [Windows Server システム管理（Windows Server 2019対応）](https://www.school.ctc-g.co.jp/course/P680.html) |
 | [Windows Serverシステム管理　実践編](https://www.school.ctc-g.co.jp/course/P681.html) |
 | [Power BI入門](https://www.school.ctc-g.co.jp/course/P608.html) |
-
-
+| [Power Appsによる業務アプリ開発入門](https://www.school.ctc-g.co.jp/course/P607.html) |
+| [Power Automateによる業務自動化入門](https://www.school.ctc-g.co.jp/course/P606.html) |
 
 ### ■ご準備いただくもの
 
