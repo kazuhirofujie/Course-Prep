@@ -98,8 +98,7 @@
 
    | 項目                                  | 詳細                                                         |
    | ------------------------------------- | ------------------------------------------------------------ |
-   | メールアドレスを入力                  | GmailやYahoo!メールなどのアドレスを利用することが可能です。<br />Microsoftアカウントを他のメールアドレスと統一したい場合は、こちらを選択してください。 |
-   | 新しいメールアドレスを取得<br />※推奨 | Microsoftアカウントとメールアドレスを取得することが可能です。<br />ドメインは「outlook.com」「outlook.jp」「hotmail.com」から選択できます。<br />Microsoftアカウントとして個別に利用したい場合は、こちらを選択してください。 |
+   | 新しいメールアドレスを取得 | Microsoftアカウントとメールアドレスを取得することが可能です。<br />ドメインは「outlook.com」「outlook.jp」「hotmail.com」から選択できます。|
    
    <img src="./icon/MicrosoftAccount3.png" alt="MicrosoftAccount3" width="350pix" />　
 
@@ -127,16 +126,55 @@
 
    <img src="./icon/MicrosoftAccount6.png" alt="MicrosoftAccount6" width="500pix" />　
 
-   
-
-   h.最後に画面右上にあるアイコンをクリックし、「**サインアウト**」を行います。
-
-   <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="450pix" />　
-
-
 ------
 
+3. **GitHubにアカウントを登録する(※重要※)**
    
+   作成したMicrosoftアカウントを使用して、GitHubにサインアップします。
+
+   ※**個人PC**、**スマホ**などで作業してください。
+
+   ①「<https://github.com/>」にアクセスします。
+
+   ②画面右上の「**sign up**」をクリックします。
+
+      <img src="./icon/GitHubSignUp-1.png" alt="MicrosoftAccount6" width="500pix" />
+
+
+   ③「Sign up to GitHub」と表示されます。
+   
+   以下の必要項目を入力し「**Create account**」をクリックします。
+
+   | 項目                      | 説明                                                           |
+   | :---------------------- | :----------------------------------------------------------- |
+   | **Email**               | 先ほど作成したMicrosoftアカウントのメールアドレスを入力してください。                                     |
+   | **Password**            | パスワードを入力してください。<br>※パスワードは、最低15文字以上、または数字と小文字を含む8文字以上でなければなりません。 |
+   | **Username**            | ユーザー名を入力してください。公開される表示名となります。                       |
+   | **Your Country/Region** | 所属する国または地域を選択してください。                                         |
+   | **Email preferences**   | 定期的な製品更新やお知らせを受け取るかどうかを選択します。チェックは不要です。                |
+
+   <img src="./icon/GitHubSignUp-2.png" alt="MicrosoftAccount6" width="500pix" />
+
+
+   ④ 画面が切り替わり、パズルを解く画面が表示されます。
+      
+      指示に従いパズルを解いてください。パズルを解くと「**Confirm your email address**」と表示され、登録した本人への確認コードが送信されます。
+
+      先ほど作成したMicrosoftアカウントのメールボックスを確認してください。Microsoftアカウントのページの左側にある九点リーダーアイコンをクリックし、「**Outlook**」を選択するとメール画面に移動できます。
+
+      <img src="./icon/GitHubSignUp-3.png" alt="MicrosoftAccount6" width="500pix" />
+   
+
+   ⑤ GitHubから届いた確認コードを入力し「**Contiune**」をクリックします。
+   <img src="./icon/GitHubSignUp-4.png" alt="MicrosoftAccount6" width="500pix" />
+
+   ⑤登録が完了すると「Sign in to GitHub」が表示されます。
+
+      メールアドレスとパスワードを入力し、「**sign in**」をクリックします。GitHubへのサインインが完了します。
+
+      <img src="./icon/GitHubSignUp-5.png" alt="MicrosoftAccount6" width="500pix" />
+
+------
 
 事前準備は終了となります。お忙しいところ、ご協力いただき誠にありがとうございます。
 
