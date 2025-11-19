@@ -53,7 +53,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | ------------------------------------------------------------ |
 | [PL-900：Microsoft Power Platform 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |
 | [PL-200：Microsoft Power Platform 業務コンサルタント](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |
-| [PL-300：Microsoft Power BI データアナリスト](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
+| [PL-300：Microsoft Power BI データアナリスト](https://github.com/ctct-edu/Course-Prep/blob/main/prep/01-rdp.md) |
 | [PL-7001：Power Apps を使ったキャンバス アプリの作成と管理](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |
 | [PL-7002：Power Automate を使用して自動化されたプロセスを作成および管理する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |
 | [PL-7003：Power Apps と Dataverse を使用してモデル駆動型アプリを作成および管理する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/11-sk-ppf-ms-mfa.md) |

@@ -15,7 +15,6 @@
 | [MS-900 Microsoft 365 基礎](https://www.school.ctc-g.co.jp/course/P800.html) |
 | [MS-102 Microsoft 365 管理者](https://www.school.ctc-g.co.jp/course/P803.html) |
 | [MS-700 Microsoft Teamsの管理](https://www.school.ctc-g.co.jp/course/P804.html) |
-| [PL-300 Microsoft Power BI データアナリスト](https://www.school.ctc-g.co.jp/course/P930.html) |
 
 
 
