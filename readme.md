@@ -37,7 +37,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 
 | コース名                                                     |
 | ------------------------------------------------------------ |
-| [MS-900：Microsoft 365 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
+| [Microsoft 365 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
 | [MS-102：Microsoft 365 管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
 | [MS-700：Microsoft Teamsの管理](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
 | [SC-900：Microsoft セキュリティ、コンプライアンス、ID の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-mfa.md) |
